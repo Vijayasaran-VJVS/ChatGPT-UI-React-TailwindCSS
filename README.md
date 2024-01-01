@@ -1,8 +1,10 @@
-# React + Vite
+# ChatGPT UI using React + Vite + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides the frontend Interface of the ChatGPT UI.
 
-Currently, two official plugins are available:
+React Docs: https://react.dev/learn
+TailwindCSS Docs: https://tailwindcss.com/docs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-01-01 at 20-10-11 Vite React](https://github.com/Vijayasaran-VJVS/ChatGPT-UI-React-TailwindCSS/assets/117149477/211b0bcc-0d91-4f41-8b49-44ba89d55008)
+
+Hope you find this helpful!✌️
